@@ -1,0 +1,3 @@
+urx==0.11.0
+numpy==1.18.5
+pyserial==3.4
